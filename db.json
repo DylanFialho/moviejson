@@ -31,12 +31,6 @@
     "category" : "Action"
     },
     {
-    "name" : "The Bourne Identity",
-    "url" : "https://upload.wikimedia.org/wikipedia/pt/a/ae/BourneIdentityfilm.jpg",
-    "description" : "Robert Ludlum’s amnesiac hero Jason Bourne has been a fixture in the author’s novels since the early 1980s; by the time Matt Damon took on the role in the early 2000s, however, only the most devoted beach readers/spy-lit fans could have told you who he was. Then director Doug Liman’s film expounded the character’s close-combat styles, integrating Krav Maga and various Filipino martial arts into the mix, and added a jittery you-are-there sense to the action sequences.",
-    "category" : "Action"
-    },
-    {
     "name" : "The Shining",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Shining.png/220px-Shining.png",
     "description" : "Well, The Shining follows a man and his family as he takes on the role of winter caretaker at a resort hotel known as The Overlook. Given that this is a Stephen King adaptation (albeit one that that horror author hates so much that he made his own movie), the winter months don’t go well. The Overlook Hotel, it turns out, doesn’t really like people.",
@@ -73,12 +67,6 @@
     "category" : "Horror"
     },
     {
-    "name" : "Alien",
-    "url" : "https://hcmoviereviews.files.wordpress.com/2014/04/alien_movie_poster.jpg",
-    "description" : "Arguably one of the greatest science fiction movies ever made also just happens to be one of the greatest horror movies too. It doesn't seem fair, does it? The original Alien from Ridley Scott sends the crew of the Nostromo to investigate a distress call from an abandoned alien spaceship as innocently as any gang of hormonal teenagers headed off to a remote cabin in the woods.",
-    "category" : "Horror"
-    },
-    {
     "name" : "Kung Fu Hustle",
     "url" : "https://m.media-amazon.com/images/M/MV5BMjZiOTNlMzYtZWYwZS00YWJjLTk5NDgtODkwNjRhMDI0MjhjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
     "description" : "Wielding big laughs and cartoonishly bad CG with the precision of a katana — or at least a giant axe — Chow’s period extravaganza re-envisioned 1940s Shanghai as part Shaw brothers and part Looney Tunes, the filmmaker starring alongside Lam Chi-chung as a pair of petty crooks who dream of joining the violent gang that runs their town with an iron touch.",
@@ -109,12 +97,6 @@
     "category" : "Comedy"
     },
     {
-    "name" : "Barbershop",
-    "url" : "https://upload.wikimedia.org/wikipedia/en/9/95/Barbershop_posta.jpg",
-    "description" : "Tim Story’s franchise-starting 2002 hit couches itself in formula to deliver a unique slice of life that’s as funny as it is heartfelt. Bolstered by strong performances by a wildly stacked cast, including Ice Cube, Michael Ealy, Eve, Cedric the Entertainer, Keith David, and Anthony Anderson, the smash hit may have kickstarted an entire series, complete with spinoffs and TV shows, but even as its own entity, it’s a worthy entry into the commercial comedy hall of fame.",
-    "category" : "Comedy"
-    },
-    {
     "name" : "The Guilty",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/5/59/The_Guilty_%282021_film%29.jpg",
     "description" : "This film had us holding our breath for the majority of it given the fast-paced, nail-biting tension that builds thanks to Jake Gyllenhaal's incredible performance. The plot sees an incredibly anxious and angry police detective (Gyllenhaal) working as a 911 operator after being demoted from his detective position, and trying to help a distressed caller.",
@@ -130,12 +112,6 @@
     "name" : "The Power Of The Dog",
     "url" : "https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
     "description" : "This film has Oscar nominations written all over it, in our eyes. It's a part Western, part thriller that sees Phil Burbank (Benedict Cumberbatch) gaslight and subtly bully his brother-in-law's (Jesse Plemons) new wife Rose (Kirsten Dunst) on the family ranch. Cumberbatch's whistle continues to send shivers down our spine.",
-    "category" : "Thriller"
-    },
-    {
-    "name" : "The Beguiled",
-    "url" : "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5ddec17372bd5b20bb6f0732204bec9b3c37163a8947ef9fe9b87b35873756ca._RI_V_TTW_.jpg",
-    "description" : "Director Sofia Coppola is the mastermind behind this women-led cast including Kirsten Dunst, Elle Fanning and Nicole Kidman. The film explores the story of a civil war soldier, John McBurney (Colin Farrell), who seeks help in an all-girls boarding school. Enter jealousy, competition and some seriously twisted behaviour. ",
     "category" : "Thriller"
     },
     {
@@ -178,12 +154,6 @@
     "name" : "Star Wars: The Last Jedi",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/0/0e/Star_Wars_The_Last_Jedi.png",
     "description" : "Luke Skywalker's peaceful and solitary existence gets upended when he encounters Rey, a young woman who shows strong signs of the Force. Her desire to learn the ways of the Jedi forces Luke to make a decision that changes their lives forever. Meanwhile, Kylo Ren and General Hux lead the First Order in an all-out assault against Leia and the Resistance for supremacy of the galaxy.",
-    "category" : "Adventure"
-    },
-    {
-    "name" : "Incredibles 2",
-    "url" : "https://upload.wikimedia.org/wikipedia/pt/d/de/Incredibles2.png",
-    "description" : "Telecommunications guru Winston Deavor enlists Elastigirl to fight crime and make the public fall in love with superheroes once again. That leaves Mr. Incredible with one of his greatest challenges ever -- staying home and taking care of three rambunctious children. As Violet, Dash and Jack-Jack offer him a new set of headaches, a cybercriminal named Screenslaver launches his dastardly plan -- hypnotizing the world through computer screens.",
     "category" : "Adventure"
     }
   ]
