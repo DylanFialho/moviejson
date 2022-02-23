@@ -7,12 +7,6 @@
     "category" : "Action"
     },
     {
-    "name" : "Die Hard",
-    "url" : "https://upload.wikimedia.org/wikipedia/pt/2/2a/Die_hard_poster_promocional.png",
-    "description" : "NYPD officer John McClane just happens to find himself at his estranged wife’s Christmas party in a Los Angeles skyscraper when terrorists take over the building. What comes next is a cat-and-mouse game that utilizes the limitations of a single, contained locale to incredible effect.",
-    "category" : "Action"
-    },
-    {
     "name" : "John Wick",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/John_wick_ver3.jpg/250px-John_wick_ver3.jpg",
     "description" : "His name alone is enough to strike fear in both underworld bigwigs and his professional-killer peers. He’s a one-man killing machine that people refer to as a mythological boogieman. You do not want to make John Wick angry, in other words. Which is exactly what some Russian mobsters do. Bad move. Cue payback, mayhem and a pile of corpses.",
@@ -61,12 +55,6 @@
     "category" : "Horror"
     },
     {
-    "name" : "Jaws",
-    "url" : "https://m.media-amazon.com/images/I/71lhAl4ytXL._AC_SY606_.jpg",
-    "description" : "Before Jurassic Park, before ET, and an eternity before the majority of the cast of Ready Player One were brought screaming into existence, there was Jaws, Steven Spielberg’s toothy horror. And yes, this is a horror movie. Jaws, one of the original blockbusters on account of the number of people literally queuing round the block only to flee the cinema in terror, is horrifying.",
-    "category" : "Horror"
-    },
-    {
     "name" : "Kung Fu Hustle",
     "url" : "https://m.media-amazon.com/images/M/MV5BMjZiOTNlMzYtZWYwZS00YWJjLTk5NDgtODkwNjRhMDI0MjhjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
     "description" : "Wielding big laughs and cartoonishly bad CG with the precision of a katana — or at least a giant axe — Chow’s period extravaganza re-envisioned 1940s Shanghai as part Shaw brothers and part Looney Tunes, the filmmaker starring alongside Lam Chi-chung as a pair of petty crooks who dream of joining the violent gang that runs their town with an iron touch.",
@@ -76,12 +64,6 @@
     "name" : "Dear White People",
     "url" : "https://m.media-amazon.com/images/M/MV5BMTc0YTU5MWQtZGRhYy00MWI1LTlkNTEtYzRkMjE4NzU2ZTlkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
     "description" : "Justin Simien’s feature directorial debut Dear White People heralded many things in 2014: First, the arrival of a major new Black — and queer! — voice in American cinema. Second, an incisive look at the fractious insides of a prestigious Ivy League university through different-colored lenses. And third, it sparked the launch of a hugely popular Netflix series based on the movie in 2017.",
-    "category" : "Comedy"
-    },
-    {
-    "name" : "Greener Grass",
-    "url" : "https://m.media-amazon.com/images/M/MV5BMmUxNDUxYmMtZTFkZi00NTVlLWI0ZTQtZmRhYzYxNzIxMmYyXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_.jpg",
-    "description" : "The world of Greener Grass feels so real and so recognizable, even as it becomes more and more layered with absurdities that make it feel alien. It’s like Wes Anderson taking on a Black Mirror installment, or the David Lynch of Wild at Heart suddenly directing an episode of Desperate Housewives.",
     "category" : "Comedy"
     },
     {
@@ -106,12 +88,6 @@
     "name" : "The Father",
     "url" : "https://m.media-amazon.com/images/M/MV5BZWQ3MjBjN2MtMjIxYS00MjBlLWFmYTktN2RlZmVkMWUzYTYwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
     "description" : "It's not hard to see why Anthony Hopkins won the Best Actor gong at the 2020 Oscars for his portrayal of an ageing man who refuses the help of his daughter, Olivia Colman, and is forced to question whether what he sees is real or a figure of his imagination. The film also stars Rufus Sewell, Mark Gatiss and Imogen Poot.",
-    "category" : "Thriller"
-    },
-    {
-    "name" : "The Power Of The Dog",
-    "url" : "https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
-    "description" : "This film has Oscar nominations written all over it, in our eyes. It's a part Western, part thriller that sees Phil Burbank (Benedict Cumberbatch) gaslight and subtly bully his brother-in-law's (Jesse Plemons) new wife Rose (Kirsten Dunst) on the family ranch. Cumberbatch's whistle continues to send shivers down our spine.",
     "category" : "Thriller"
     },
     {
@@ -150,11 +126,5 @@
     "description" : "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border. His plan to hide from the outside world gets upended when he meets a young mutant (Dafne Keen) who is very much like him. Logan must now protect the girl and battle the dark forces that want to capture her.",
     "category" : "Adventure"
     },
-    {
-    "name" : "Star Wars: The Last Jedi",
-    "url" : "https://upload.wikimedia.org/wikipedia/pt/0/0e/Star_Wars_The_Last_Jedi.png",
-    "description" : "Luke Skywalker's peaceful and solitary existence gets upended when he encounters Rey, a young woman who shows strong signs of the Force. Her desire to learn the ways of the Jedi forces Luke to make a decision that changes their lives forever. Meanwhile, Kylo Ren and General Hux lead the First Order in an all-out assault against Leia and the Resistance for supremacy of the galaxy.",
-    "category" : "Adventure"
-    }
   ]
 }
