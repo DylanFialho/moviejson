@@ -35,6 +35,48 @@
     "url" : "https://upload.wikimedia.org/wikipedia/pt/a/ae/BourneIdentityfilm.jpg",
     "description" : "Robert Ludlum’s amnesiac hero Jason Bourne has been a fixture in the author’s novels since the early 1980s; by the time Matt Damon took on the role in the early 2000s, however, only the most devoted beach readers/spy-lit fans could have told you who he was. Then director Doug Liman’s film expounded the character’s close-combat styles, integrating Krav Maga and various Filipino martial arts into the mix, and added a jittery you-are-there sense to the action sequences.",
     "category" : "Action"
-    }
+    },
+    {
+    "name" : "The Shining",
+    "url" : "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Shining.png/220px-Shining.png",
+    "description" : "Well, The Shining follows a man and his family as he takes on the role of winter caretaker at a resort hotel known as The Overlook. Given that this is a Stephen King adaptation (albeit one that that horror author hates so much that he made his own movie), the winter months don’t go well. The Overlook Hotel, it turns out, doesn’t really like people.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "The Texas Chain Saw Massacre",
+    "url" : "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/dbcfc020e2dce52aca1b3eb0f3a00e6b4bb5796fc7fbc0435618722b55503414._RI_V_TTW_.jpg",
+    "description" : "Some movie titles are vague, letting you gradually work out their meaning as the narrative slowly unfurls in front of your eyes like a delicate flower in tea. Then there’s Tobe Hooper’s grim, sweaty horror movie. There is nothing delicate here. Its titular weapon needs to be sharp but The Texas Chainsaw Massacre is a blunt instrument of horror.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "Hereditary",
+    "url" : "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_FMjpg_UX1000_.jpg",
+    "description" : "Home is where the heart is. It’s also where the worst horror lives, hiding just beneath the surface of the perfect family life. A harrowed Toni Collette leads Ari Aster’s very first (!) feature film as the mother of a grieving family. The death of her own mother has sent shockwaves through their home and, to keep this review spoiler-free, the future isn’t looking exactly, errr, bright either.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "The Exorcist",
+    "url" : "https://upload.wikimedia.org/wikipedia/pt/a/a6/The_Exorcist_1973.jpg",
+    "description" : "And here we are into the top five of this best horror movies list. It almost feels predictable now that William Friedkin’s masterpiece, now in its 40s, is still looming near the top of so many horror features. But watch The Exorcist and you’ll understand why. This is the tale of Regan, the daughter of a successful movie actress who one day occupies herself in the basement by playing with an ouija board.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "Halloween",
+    "url" : "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_FMjpg_UX1000_.jpg",
+    "description" : "Who'd have thought an old Star Trek mask could be so terrifying? Director John Carpenter created a modern classic when he gave his villain a blank William Shatner mask to wear while he stalks babysitters around the fictional town of Haddonfield, Illinois.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "Jaws",
+    "url" : "https://m.media-amazon.com/images/I/71lhAl4ytXL._AC_SY606_.jpg",
+    "description" : "Before Jurassic Park, before ET, and an eternity before the majority of the cast of Ready Player One were brought screaming into existence, there was Jaws, Steven Spielberg’s toothy horror. And yes, this is a horror movie. Jaws, one of the original blockbusters on account of the number of people literally queuing round the block only to flee the cinema in terror, is horrifying.",
+    "category" : "Horror"
+    },
+    {
+    "name" : "Alien",
+    "url" : "https://hcmoviereviews.files.wordpress.com/2014/04/alien_movie_poster.jpg",
+    "description" : "Arguably one of the greatest science fiction movies ever made also just happens to be one of the greatest horror movies too. It doesn't seem fair, does it? The original Alien from Ridley Scott sends the crew of the Nostromo to investigate a distress call from an abandoned alien spaceship as innocently as any gang of hormonal teenagers headed off to a remote cabin in the woods.",
+    "category" : "Horror"
+    },
   ]
 }
