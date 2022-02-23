@@ -1,12 +1,6 @@
 {
   "movies" : [
     {
-    "name" : "Mad Max: Fury Road",
-    "url" : "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
-    "description" : "His name is Max, and his world is fire and blood. Australian filmmaker George Miller had already established the postapocalyptic, predator-or-prey landscape inhabited by ex-cop Max Rockatansky in three previous movies, all starring Mel Gibson; his first sequel, known on these shores as The Road Warrior, had been considered the gold standard for dystopian car-chase extravaganzas. When it came time to revisit Mad Max decades after 1985’s Beyond Thunderdome, Miller decided he’d try to do the film the old-fashioned way, with lots of practical stunts. The director wanted nothing less than to outdo himself. He succeeded.",
-    "category" : "Action"
-    },
-    {
     "name" : "John Wick",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/John_wick_ver3.jpg/250px-John_wick_ver3.jpg",
     "description" : "His name alone is enough to strike fear in both underworld bigwigs and his professional-killer peers. He’s a one-man killing machine that people refer to as a mythological boogieman. You do not want to make John Wick angry, in other words. Which is exactly what some Russian mobsters do. Bad move. Cue payback, mayhem and a pile of corpses.",
@@ -31,12 +25,6 @@
     "category" : "Horror"
     },
     {
-    "name" : "The Texas Chain Saw Massacre",
-    "url" : "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/dbcfc020e2dce52aca1b3eb0f3a00e6b4bb5796fc7fbc0435618722b55503414._RI_V_TTW_.jpg",
-    "description" : "Some movie titles are vague, letting you gradually work out their meaning as the narrative slowly unfurls in front of your eyes like a delicate flower in tea. Then there’s Tobe Hooper’s grim, sweaty horror movie. There is nothing delicate here. Its titular weapon needs to be sharp but The Texas Chainsaw Massacre is a blunt instrument of horror.",
-    "category" : "Horror"
-    },
-    {
     "name" : "Hereditary",
     "url" : "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_FMjpg_UX1000_.jpg",
     "description" : "Home is where the heart is. It’s also where the worst horror lives, hiding just beneath the surface of the perfect family life. A harrowed Toni Collette leads Ari Aster’s very first (!) feature film as the mother of a grieving family. The death of her own mother has sent shockwaves through their home and, to keep this review spoiler-free, the future isn’t looking exactly, errr, bright either.",
@@ -52,12 +40,6 @@
     "name" : "Kung Fu Hustle",
     "url" : "https://m.media-amazon.com/images/M/MV5BMjZiOTNlMzYtZWYwZS00YWJjLTk5NDgtODkwNjRhMDI0MjhjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
     "description" : "Wielding big laughs and cartoonishly bad CG with the precision of a katana — or at least a giant axe — Chow’s period extravaganza re-envisioned 1940s Shanghai as part Shaw brothers and part Looney Tunes, the filmmaker starring alongside Lam Chi-chung as a pair of petty crooks who dream of joining the violent gang that runs their town with an iron touch.",
-    "category" : "Comedy"
-    },
-    {
-    "name" : "Dear White People",
-    "url" : "https://m.media-amazon.com/images/M/MV5BMTc0YTU5MWQtZGRhYy00MWI1LTlkNTEtYzRkMjE4NzU2ZTlkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
-    "description" : "Justin Simien’s feature directorial debut Dear White People heralded many things in 2014: First, the arrival of a major new Black — and queer! — voice in American cinema. Second, an incisive look at the fractious insides of a prestigious Ivy League university through different-colored lenses. And third, it sparked the launch of a hugely popular Netflix series based on the movie in 2017.",
     "category" : "Comedy"
     },
     {
@@ -79,12 +61,6 @@
     "category" : "Thriller"
     },
     {
-    "name" : "The Father",
-    "url" : "https://m.media-amazon.com/images/M/MV5BZWQ3MjBjN2MtMjIxYS00MjBlLWFmYTktN2RlZmVkMWUzYTYwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
-    "description" : "It's not hard to see why Anthony Hopkins won the Best Actor gong at the 2020 Oscars for his portrayal of an ageing man who refuses the help of his daughter, Olivia Colman, and is forced to question whether what he sees is real or a figure of his imagination. The film also stars Rufus Sewell, Mark Gatiss and Imogen Poot.",
-    "category" : "Thriller"
-    },
-    {
     "name" : "The Revenant",
     "url" : "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
     "description" : "The acting, combined with the location, combined with the soundtrack of consistent, building drumming that essentially runs through the entirety of this film means that you literally feel your heart is beating in time with the film. Suspense is an understatement when it comes to this 2015 film which saw Leonardo Dicaprio finally win a Best Actor Oscar.",
@@ -103,12 +79,6 @@
     "category" : "Adventure"
     },
     {
-    "name" : "Mission: Impossible -- Fallout",
-    "url" : "https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg",
-    "description" : "Ethan Hunt and the IMF team join forces with CIA assassin August Walker to prevent a disaster of epic proportions. Arms dealer John Lark and a group of terrorists known as the Apostles plan to use three plutonium cores for a simultaneous nuclear attack on the Vatican, Jerusalem and Mecca, Saudi Arabia. When the weapons go missing, Ethan and his crew find themselves in a desperate race against time to prevent them from falling into the wrong hands.",
-    "category" : "Adventure"
-    },
-    {
     "name" : "Spider-Man: Into the Spider-Verse",
     "url" : "https://upload.wikimedia.org/wikipedia/pt/thumb/3/33/Spider-Man_Into_the_spider-verse_poster_c%C3%B3pia.png/250px-Spider-Man_Into_the_spider-verse_poster_c%C3%B3pia.png",
     "description" : "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world. ",
@@ -119,6 +89,6 @@
     "url" : "https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg",
     "description" : "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border. His plan to hide from the outside world gets upended when he meets a young mutant (Dafne Keen) who is very much like him. Logan must now protect the girl and battle the dark forces that want to capture her.",
     "category" : "Adventure"
-    },
+    }
   ]
 }
